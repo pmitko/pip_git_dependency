@@ -1,8 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="pip git dependency",
+    name="pip_git_dependency",
     packages=find_packages(),
-    include_package_data=True,
-    install_requires=[]
+    version='0.1.1',
+    author='pmitko',
+    author_email='pmitko@pixelfederation.com',
+    url='https://github.com/pmitko',
+    license='MIT',
+	zip_safe=False
 )
