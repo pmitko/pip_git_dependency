@@ -9,7 +9,3 @@ setup(
     url='https://github.com/pmitko',
     license='MIT',
 	zip_safe=False,
-	entry_points={
-        'console_scripts': ['setup.py'],
-    },
-)
