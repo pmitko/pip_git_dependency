@@ -10,6 +10,6 @@ setup(
     license='MIT',
 	zip_safe=False,
 	entry_points={
-        'console_scripts': ['pip_git_dependency=db'],
+        'console_scripts': ['setup.py'],
     },
 )
