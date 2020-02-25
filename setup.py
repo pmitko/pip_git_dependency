@@ -8,4 +8,5 @@ setup(
     author_email='pmitko@pixelfederation.com',
     url='https://github.com/pmitko',
     license='MIT',
-	zip_safe=False,
+	zip_safe=False
+)
